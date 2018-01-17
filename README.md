@@ -19,19 +19,17 @@
 
 =======================
 
-![][1]
+![](https://upload-images.jianshu.io/upload_images/5511258-94297001ea5a3193.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
 
   
 
 做出这种表情包效果就很不错！
 
-![][2]
+![](https://upload-images.jianshu.io/upload_images/5511258-85cae0c4af7d3587.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
 
 现在满脑子都在想虚拟形象，早上一起来，发现了个空瓶子，马上拍给神仙姐姐看了。
 
-  [github]: https://link.jianshu.com?t=https%3A%2F%2Fgithub.com%2FBlockChainClub%2FPokerGame
-  [1]: //upload-images.jianshu.io/upload_images/5511258-94297001ea5a3193.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700
-  [2]: //upload-images.jianshu.io/upload_images/5511258-85cae0c4af7d3587.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700
+![](https://upload-images.jianshu.io/upload_images/5511258-2ae47bc03c042cba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
   
 ## 二 人物：利用区块链技术限量发行，与加密猫一样，可以转让。
 ```
@@ -62,8 +60,8 @@ Pei:500
 ```
 
 ## 五 游戏设计
-### 1项目名称：    币须达摩
-### 2项目目的：    提高研习社员间，还有社员和研习社的粘度，回头率            
+### 1 项目名称    币须达摩
+### 2 项目目的    提高研习社员间，还有社员和研习社的粘度，回头率            
 
 ### 3 基础玩法
 ```
